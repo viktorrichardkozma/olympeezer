@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/olympeezer/static/css/main.f639a4b6.css",
+    "main.js": "/olympeezer/static/js/main.136eeb8a.js",
+    "static/js/787.3b4bb073.chunk.js": "/olympeezer/static/js/787.3b4bb073.chunk.js",
+    "index.html": "/olympeezer/index.html",
+    "static/media/volume.svg": "/olympeezer/static/media/volume.e451636b648d107af1089e6b5d977d52.svg",
+    "static/media/pause.svg": "/olympeezer/static/media/pause.aef6325c2e51e1ac54f3db5d08647e5a.svg",
+    "static/media/arrow.svg": "/olympeezer/static/media/arrow.f765b61f8e6abbc135b05595baf01092.svg",
+    "static/media/play.svg": "/olympeezer/static/media/play.43a55c07aea5030e23d2149b078ca941.svg",
+    "main.f639a4b6.css.map": "/olympeezer/static/css/main.f639a4b6.css.map",
+    "main.136eeb8a.js.map": "/olympeezer/static/js/main.136eeb8a.js.map",
+    "787.3b4bb073.chunk.js.map": "/olympeezer/static/js/787.3b4bb073.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f639a4b6.css",
+    "static/js/main.136eeb8a.js"
+  ]
+}
